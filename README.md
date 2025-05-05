@@ -1,5 +1,5 @@
 # 🎲 Dicee Játék
-
+![Dicee Játék képernyőkép](./image.png)
 Egyszerű dobókocka játék, ahol két játékos dobókockái véletlenszerűen generálódnak, és a nagyobb értéket dobó játékos nyer.
 
 ![Dicee Játék](https://img.shields.io/badge/Játék-Dicee-brightgreen)
