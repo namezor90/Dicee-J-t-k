@@ -23,7 +23,7 @@ A **Dicee** egy egyszerű, de szórakoztató webes dobókocka játék, ahol két
 ### Dobókockák
 | Dobás 1 | Dobás 2 | Dobás 3 | Dobás 4 | Dobás 5 | Dobás 6 |
 |---------|---------|---------|---------|---------|---------|
-| ![Dobás 1](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice1.png) | ![Dobás 2](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice2.png) | ![Dobás 3](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice3.png) | ![Dobás 4](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice4.png) | ![Dobás 5](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice5.png) | ![Dobás 6](https://raw.githubusercontent.com/felhasznalonev/dicee/main/images/dice6.png) |
+| ![Dobás 1](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice1.png) | ![Dobás 2](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice2.png) | ![Dobás 3](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice3.png) | ![Dobás 4](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice4.png) | ![Dobás 5](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice5.png) | ![Dobás 6](https://raw.githubusercontent.com/namezor90/dicee/main/images/dice6.png) |
 
 ## 🚀 Kezdeti lépések
 
@@ -35,7 +35,7 @@ A **Dicee** egy egyszerű, de szórakoztató webes dobókocka játék, ahol két
 
 1. Klónozd le a repository-t:
 ```bash
-git clone https://github.com/felhasznalonev/dicee.git
+git clone https://github.com/namezor90/dicee.git
 ```
 
 2. Nyisd meg a `dicee.html` fájlt a böngésződben
@@ -89,7 +89,7 @@ if (randomNumber1 > randomNumber2) {
 
 ## 🌐 Demó
 
-[Élő demó megtekintése](https://felhasznalonev.github.io/dicee/)
+[Élő demó megtekintése](https://namezor90.github.io/dicee/)
 
 ## 📜 Licenc
 
@@ -97,7 +97,7 @@ if (randomNumber1 > randomNumber2) {
 
 ## 👨‍💻 Szerző
 
-- **Neved** - [GitHub Profilod](https://github.com/felhasznalonev)
+- **Neved** - [GitHub Profilod](https://github.com/namezor90)
 
 ## 🙏 Köszönetnyilvánítás
 
