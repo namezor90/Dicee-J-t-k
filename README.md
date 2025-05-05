@@ -99,7 +99,7 @@ if (randomNumber1 > randomNumber2) {
 
 ## 👨‍💻 Szerző
 
-- **Neved** - [GitHub Profilod](https://github.com/namezor90)
+- **NaMeZoR** - [GitHub Profilod](https://github.com/namezor90)
 
 ## 🙏 Köszönetnyilvánítás
 
