@@ -89,7 +89,7 @@ if (randomNumber1 > randomNumber2) {
 
 ## 🌐 Demó
 
-[Élő demó megtekintése](https://namezor90.github.io/dicee/)
+[Élő demó megtekintése]([https://namezor90.github.io/dicee/](https://www.troy.hu/projects/projects01/dicee.html))
 
 ## 📜 Licenc
 
