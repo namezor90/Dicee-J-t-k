@@ -1,5 +1,4 @@
 # 🎲 Dicee Játék
-![Dicee Játék képernyőkép](./image.png)
 Egyszerű dobókocka játék, ahol két játékos dobókockái véletlenszerűen generálódnak, és a nagyobb értéket dobó játékos nyer.
 
 ![Dicee Játék](https://img.shields.io/badge/Játék-Dicee-brightgreen)
@@ -19,6 +18,9 @@ A **Dicee** egy egyszerű, de szórakoztató webes dobókocka játék, ahol két
 4. Új játszmához egyszerűen frissítsd az oldalt
 
 ## 🖼️ Előnézet
+
+### Alkalmazás képernyőkép
+![Dicee Játék képernyőkép](./image.png)
 
 ### Dobókockák
 | Dobás 1 | Dobás 2 | Dobás 3 | Dobás 4 | Dobás 5 | Dobás 6 |
